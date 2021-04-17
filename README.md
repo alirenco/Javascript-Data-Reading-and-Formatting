@@ -1,4 +1,4 @@
-# javascript-challenge
+# Javascript Data Formatting
 
 Author: Alisha Coffey
 
